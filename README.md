@@ -32,7 +32,7 @@ And it ends with just one sentence explaining the outcome in a casual, student-l
 1. **Clone the repo**  
    ```bash
    git clone https://github.com/Saketh35/Code-Evaluation-Assistant-Flask-OpenRouter-AI-.git
-   cd your-repo-name
+   cd Code-Evaluation-Assistant-Flask-OpenRouter-AI-
    ````
 
 2. **Set up a virtual environment (optional but recommended)**
