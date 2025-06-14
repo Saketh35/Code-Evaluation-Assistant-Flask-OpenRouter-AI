@@ -33,7 +33,7 @@ And it ends with just one sentence explaining the outcome in a casual, student-l
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
-````
+   ````
 
 2. **Set up a virtual environment (optional but recommended)**
 
