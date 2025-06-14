@@ -87,5 +87,3 @@ Just type in your prompt (the assignment question), paste both students' answers
 ### Feedback Welcome
 
 If you're into AI + education or just love tinkering with LLMs and Flask, feel free to fork this or open an issue. Always down to improve or learn from others.
-
-```
